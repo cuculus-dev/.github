@@ -1,5 +1,5 @@
 ## What is Cuculus
-「Cuculus」は短文投稿型のSNSです。  
+「Cuculus」は現在開発中の短文投稿型のSNSです。  
 以下、Cuculusのコンセプトと目指すポイントです。
 
 - まずは2015年頃のシンプルなXXXXXを再現
