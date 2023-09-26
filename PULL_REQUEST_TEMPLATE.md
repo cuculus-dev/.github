@@ -1,4 +1,4 @@
-## Ticket
+## Issue
 
 - Github Issue: #${issue番号}
 
