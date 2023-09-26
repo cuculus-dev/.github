@@ -1,13 +1,13 @@
 ---
 name: Develop task
-about: 開発作業
-title: '作業内容'
+about: 開発するにあたり必要な作業
+title: '${作業内容}'
 labels: develop
 assignees: ''
 
 ---
-## Community Issue
-cuculus-dev/cuculus-community#{issue番号}
+## 関連Issue
+(無ければ空)
 
 ## 概要
 
