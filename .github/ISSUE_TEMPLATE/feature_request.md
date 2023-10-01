@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Community Issue
-cuculus-dev/cuculus-community/issues/${issue番号}
+https://github.com/cuculus-dev/cuculus-community/issues/${issue番号}
 
 ## 概要
 
