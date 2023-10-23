@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: 機能の追加
+about: 機能追加タスク
 title: '${機能名}'
 labels: feature
 assignees: ''
