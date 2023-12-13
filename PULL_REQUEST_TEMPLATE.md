@@ -9,3 +9,7 @@
 (確認方法を記載してください)
 
 ## Screenshot (任意)
+
+## ChatGPTによるレビュー (任意)
+
+@coderabbitai: ignore
