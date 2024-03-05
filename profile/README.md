@@ -1,4 +1,4 @@
-![Cuculus](./cuculus.png)
+![Cuculus](https://raw.githubusercontent.com/cuculus-dev/.github/main/profile/cuculus.png)
 
 [Cuculus](https://github.com/cuculus-dev)は現在開発中の短文投稿型SNSです。
 
