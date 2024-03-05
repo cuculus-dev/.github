@@ -3,7 +3,7 @@
 [Cuculus](https://github.com/cuculus-dev)は現在開発中の短文投稿型SNSです。
 
 ## Cuculusが目指す未来
-X(Twitter)やBluesky、MisskeyやMastodonなどで構成されたFediverseなど、今や様々なSNSに人や情報が分散している状況です。
+X(Twitter)やBluesky、MisskeyやMastodon、Pleromaで構成されたFediverseなど、今や様々なSNSに人や情報が分散している状況です。
 
 Cuculusは複数SNSの投稿やタイムライン、ユーザーやフォローといった情報を一つに集約することで、サイトやアプリを切り替える手間を減らしたいと考えています。  
 
