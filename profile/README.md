@@ -1,6 +1,7 @@
 ![Cuculus](https://raw.githubusercontent.com/cuculus-dev/.github/main/profile/cuculus.png)
 
-[Cuculus](https://github.com/cuculus-dev)は現在開発中の短文投稿型SNSです。
+[Cuculus](https://github.com/cuculus-dev)は現在開発中の短文投稿型ミニブログです。  
+Twitter(X)+Fediverse(Misskey,Mastodon)+Bluesky+Nostrを繋ぐシンプルなSNSを目指しています。  
 
 ## Cuculusが目指す未来
 X(Twitter)やBluesky、MisskeyやMastodon、Pleromaで構成されたFediverseなど、今や様々なSNSに人や情報が分散している状況です。
