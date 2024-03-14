@@ -26,8 +26,10 @@ Twitter、Fediverse (Misskey、Mastodon)、ATProtocol (Bluesky) などのプラ�
 
 - **バックエンド開発**:
     - バックエンドは現在プライベートリポジトリとして開発を進めています。
-    - 参加を希望される方は、[Twitter](https://twitter.com/CureDotTyphoon)
-      または[Bluesky](https://bsky.app/profile/curedottyphoon.bsky.social)にてご連絡ください。
+    - 
+
+参加を希望される方は、[Twitter](https://twitter.com/CureDotTyphoon)  
+または[Bluesky](https://bsky.app/profile/curedottyphoon.bsky.social)にてご連絡ください！
 
 ## 💡 フィードバックと提案
 
