@@ -5,7 +5,7 @@ contact_links:
     about: 新機能のアイデア/要望を提案する
   - name: Report a bug
     url: https://github.com/orgs/cuculus-dev/discussions/new?category=bugs
-    about: バグを報告する
+    about: 不具合/バグを報告する
   - name: Ask the community for help
     url: https://github.com/orgs/cuculus-dev/discussions/new?category=q-a
     about: Ask questions and discuss with other community members
